@@ -17,6 +17,7 @@ MENTOR : NEELA SANTOSH
 ## Where This Project Can Be Applicable -> E-commerce, Entertainment, Social Media
 
 # OUTPUT
+![Image](https://github.com/user-attachments/assets/bf78a35f-551d-460d-9643-e971762f1ac0)
 
 
 
